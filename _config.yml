@@ -24,21 +24,21 @@ author:
   # Biographic information
   avatar           : "569ec4191ec1a0ca663223e279f6c7a.png"
   name             : "yuechen Lou"
-  pronouns         : "him"  
+  pronouns         : # "him"  
   bio              : "I am a second-year graduate student, majoring in Applied Statistics."
   location         : "Beijing"
   employer         : "Yunnan University of Finance And Economics"
-  uri              : #"https://rain010122.github.io/"
+  uri              : # "https://rain010122.github.io/"
   email            : "louyuechen0122@163.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 

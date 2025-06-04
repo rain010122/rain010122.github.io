@@ -25,7 +25,7 @@ author:
   avatar           : "569ec4191ec1a0ca663223e279f6c7a.png"
   name             : "yuechen Lou"
   pronouns         : # "him"  
-  bio              : "I am a second-year graduate student, majoring in Applied Statistics."
+  bio              : "I am a second-year graduate student, majoring in Applied Statistics.Currently working as an algorithm intern at xiaomi"
   location         : "Beijing"
   employer         : "Yunnan University of Finance And Economics"
   uri              : # "https://rain010122.github.io/"
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

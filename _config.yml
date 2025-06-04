@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "569ec4191ec1a0ca663223e279f6c7a.jpg"
   name             : "yuechen Lou"
-  pronouns         : # example: "she/her"  
+  pronouns         : "him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Beijing"
+  employer         : "Yunnan University of Finance And Economics"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "louyuechen0122@163.com" 
 
   # Academic websites
   academia         : # URL
